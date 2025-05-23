@@ -1,0 +1,48 @@
+The html tags that were taught in class and must be used in the website are as follows. The tags that were taught are: html tag, heading tag, paragraph tag, title tag, body tag, links tag, image tag, empty elements like break tag, attributes for tags like name, href, src, style attribute, title attribute, hr tag(horizontal rules), pre tag, change background
+, color, change color of text, fonts, <b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+text direction , quoting text like blockquote, short quotations q, code tag, address tag, target attribute for hyperlink, table tag, tr tag, td tag, th tag, cell padding and cell spacing attributes, border attribute for table, column span and row span, tables background(bgcolor attribute  or background attribute ), table height and width, table caption, table header, body, footer, marquees tag with attributes, html lists( ol, ul, and dl tags with type attribute), creating frames, framesets, frames, favicon, and in forms - form tag, input element for text, radio, checkbox, submit, button, label element, form elements like <input>
+<label>
+<select>
+<textarea>
+<button>
+<fieldset>
+<legend>
+<datalist>
+<output>
+<option>
+<optgroup>, visible values, multiple selections. 
+
+Coming to CSS I definitely have to use: text tags, forms, audio, video, marquee, tables, email and css.(Compulsory)
+In CSS,
+CSS background
+Adding YouTube videos
+Adding audio on page
+CSS Font: colour, family, size, style, variant, weight
+CSS list: list-style-type, list-style-image, list-style-position,list-style, Styling Lists with colors
+CSS table: CSS Table: Styling even and odd cells with borders
+id selector, element selector, class selector, universal selector, grouping selector, inline style, external and internal style sheets
+browser default, backgrounds, background colours, opacity, transparency, background image, opacity etc, borders, adding youtube video or normal video in web page, adding audio, (Login form
+registration form
+appointment form
+Feedback form for website - if applicable for my website)
+css font color, font family, size, style, variant, website,
+css text align, list, list style position property, list style property, list style image property, styling lists with colours, tables, css layout, css box model, floating, Grouping(div), Dimension, Display, Positioning.
+
+Above all are the tags taught in the class. Depending on the theme and all, use as much as possible accordingly and responsibly. Keep all these things before you give me the code finally.
+
+Now all I have to choose is the theme and problem statement for this. Make sure that when you suggest I need to make at least 5 webpages. 
+Also I have to pay attention to the design and layout of the website, the colours and typography as well. Make sure that I am exploring visually as much as possible and it should look visually aesthetic. 
+
+Childhood Curiosity Hub is okay. Mini Mindfulness Breaks and The burnout cycle sounds new and the design archive idea is also nice. Make sure whatever you suggest is jury worthy and it should have proper validation and reason for everything. 
+Suggest me the one which has maximum potential as per all above criteria. If any new ideas are there, suggest that also
+
+
